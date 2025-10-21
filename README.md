@@ -1,4 +1,4 @@
-#Herramientas utilizadas 
+#Herramientas utilizadas: 
 Para el presente trabajo se utilizó las siguientes herramientas:
 - R: lenguaje de programación para el tratamiento, análisis y visualización de los datos
 - RStudio: entorno de programación para ejecutar scripts en R
